@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+diffusers
+opencv-python
+ffmpeg-python
+numpy
+pillow
+requests
+flask
+python-dotenv
+celery
+redis
